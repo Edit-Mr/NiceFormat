@@ -2,14 +2,14 @@
 
 Drug file(s) to the .exe, auto convert. Download from release or build by yourself.
 
-## 2Transcript
+## 2transcript
 
 Drug file(s) to the .exe, auto break line by '，', ' ,', '。', '.', '```' and remove blank lines.
 
 ### Build
 
 ```bash
-pyinstaller -F 2webp.py -i "2webp.ico"
+pyinstaller -F 2transcript.py -i "2transcript.ico"
 ```
 
 ## 2img
@@ -23,8 +23,8 @@ Drug file(s) to the .exe, auto convert to webp
 ### Build
 
 ```bash
-pyinstaller -F 2webp.py -i "2webp.ico"
+pyinstaller -F 2img.py -i "2img.ico"
 ```
 
 ## Credits
-<a href="https://www.flaticon.com/free-icons/comma" title="Comma icons">Comma icons created by Freepik - Flaticon</a>
+[icons created by Freepik - Flaticon](https://www.flaticon.com/free-icons/)
